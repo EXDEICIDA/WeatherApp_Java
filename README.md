@@ -26,8 +26,9 @@ To use the WeatherApp_Java:
 4. Enter location coordinates to fetch weather information.
 
 ## Screenshots
-<img width="497" alt="Screenshot 1" src="./Screenshot_2024-02-23_180013.png">
-<img width="1277" alt="Screenshot 2" src="./Screenshot_2024-02-23_180214.png">
+!Screenshot 2024-02-23 180013
+
+!Screenshot 2024-02-23 180214
 
 ## Contribution
 Contributions, comments, and criticisms are welcome! Feel free to open an issue or create a pull request.
