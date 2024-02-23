@@ -1,7 +1,4 @@
 # WeatherApp_Java
-Thank you for providing the paths for the screenshots. I'll integrate them into the readme accordingly.
-
-# WeatherApp_Java
 
 ## Description
 WeatherApp_Java is a Java-based weather application utilizing the geocoding API provided by open-meteo.com. It allows users to retrieve weather information based on location coordinates, including humidity and wind levels. Additionally, the app provides descriptions for wind speed to enhance the understanding of weather conditions.
@@ -29,8 +26,8 @@ To use the WeatherApp_Java:
 4. Enter location coordinates to fetch weather information.
 
 ## Screenshots
-![Screenshot 1](./Screenshot_2024-02-23_180013.png)
-![Screenshot 2](./Screenshot_2024-02-23_180214.png)
+<img width="497" alt="Screenshot 1" src="./Screenshot_2024-02-23_180013.png">
+<img width="1277" alt="Screenshot 2" src="./Screenshot_2024-02-23_180214.png">
 
 ## Contribution
 Contributions, comments, and criticisms are welcome! Feel free to open an issue or create a pull request.
